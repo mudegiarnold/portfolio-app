@@ -1,0 +1,10 @@
+/* src/components/About.css */
+#about {
+	    background-color: #fff;
+	        padding: 50px;
+		    text-align: center;
+	    }
+
+	    #about h2 {
+		        margin-bottom: 20px;
+		}

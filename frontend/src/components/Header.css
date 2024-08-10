@@ -1,0 +1,23 @@
+/* src/components/Header.css */
+header {
+	    display: flex;
+	        justify-content: space-between;
+		    align-items: center;
+		        padding: 20px;
+			    background-color: #333;
+			        color: white;
+			}
+
+			nav ul {
+				    display: flex;
+				        list-style: none;
+				}
+
+				nav ul li {
+					    margin-left: 20px;
+				    }
+
+				    nav ul li a {
+					        color: white;
+						    text-decoration: none;
+					    }
